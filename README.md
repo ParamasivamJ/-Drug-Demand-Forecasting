@@ -55,7 +55,9 @@ The AR model showed promising results, with a significant coefficient indicating
 The AR model was used to forecast future sales. The forecasted values for November and December 2019 are as follows:
 
 2019-11-30    1627.744240
+
 2019-12-31    1896.174586
+
 Freq: M, dtype: float64
 
 ## Results
